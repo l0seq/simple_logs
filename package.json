@@ -1,0 +1,9 @@
+{
+  "name": "simple_logs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "CC-0",
+  "dependencies": {
+    "discord.js": "^14.11.0"
+  }
+}
